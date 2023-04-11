@@ -1,0 +1,13 @@
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\bin\Debug\Burgers.exe.config
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\bin\Debug\Burgers.exe
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\bin\Debug\Burgers.pdb
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\obj\Debug\Burgers.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\obj\Debug\Burgers.Form1.resources
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\obj\Debug\Burgers.Properties.Resources.resources
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\obj\Debug\Burgers.csproj.GenerateResource.cache
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\obj\Debug\Burgers.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\obj\Debug\Burgers.exe
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\obj\Debug\Burgers.pdb
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\bin\Debug\BurgerLib.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\bin\Debug\BurgerLib.pdb
+C:\Users\Саша\Desktop\Визуалка\кпз\Burgers\Burgers\obj\Debug\Burgers.csproj.CopyComplete
